@@ -59,7 +59,7 @@
         </div>
     </main>
     <footer>
-        <p>Stronę wykonała: kponom</p>
+        <p>Stronę wykonał: 000000</p>
     </footer>
 </body>
 </html>
